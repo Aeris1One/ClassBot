@@ -1,3 +1,6 @@
+# Éviter la mise en ligne du token
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
