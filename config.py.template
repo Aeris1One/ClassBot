@@ -1,5 +1,12 @@
-BOT_PREFIX = ("MONPREFIX") # Ne peux pas être retiré pour le moment, le sera sans doute bientôt
+BOT_PREFIX = "MONPREFIX" # Ne peux pas être retiré pour le moment, le sera sans doute bientôt
 TOKEN = "MONTOKEN"
 APPLICATION_ID = "MONAPPID"
 OWNERS = [123456789876543210, 987654321012345678]
 GUILDS = [123456789876543210, 987654321012345678]
+
+# Bot colors
+main_color = 0xD75BF4
+error = 0xE02B2B
+success = 0x42F56C
+warning = 0xF59E42
+info = 0x4299F5
